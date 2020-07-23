@@ -1,4 +1,4 @@
-# YandereDev
+# YandereDevify
 
 A little tool that translates your good or not-so-good JavaScript (possibly other languages in future) code into much more unmaintainable and hard to understand mess, resembling style of famous indie game developer.
 
