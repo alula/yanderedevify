@@ -6,6 +6,13 @@ If you decide to look at the code don't get scared, it's purposefully written ca
 
 #### Usage
 
+Via `npx`:
+```
+npx yanderedevify /path/to/script.js > output.js
+```
+
+From a cloned repo:
+
 ```
 npm install
 node index.js /path/to/script.js > output.js
