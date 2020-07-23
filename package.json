@@ -1,0 +1,17 @@
+{
+  "name": "yanderedevify",
+  "version": "1.0.0",
+  "description": "A little tool that makes ur code a bigger shitcode.",
+  "main": "index.js",
+  "repository": "https://github.com/alula/yanderedevify",
+  "license": "WTFPL",
+  "private": false,
+  "dependencies": {
+    "acorn": "^7.1.1",
+    "acorn-bigint": "^1.0.0",
+    "escodegen": "^1.14.1",
+    "estraverse": "^5.1.0",
+    "estree-assign-parent": "^1.0.0",
+    "murmurhash": "^1.0.0"
+  }
+}
