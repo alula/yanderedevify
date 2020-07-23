@@ -6,6 +6,10 @@ A little tool that translates your good or not-so-good JavaScript (possibly othe
 
 If you decide to look at the code don't get scared, it's purposefully written cancer.
 
+#### Disclaimer
+
+This project was made purely for memes, and is not meant to insult/harass anyone or anything.
+
 #### Usage
 
 Via `npx`:
